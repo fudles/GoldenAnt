@@ -1,1 +1,12 @@
 c:\users\fudle\documents\visual studio 2015\Projects\GoldenAnt\GoldenAnt\bin\Debug\GoldenAnt.exe.config
+c:\users\fudle\documents\visual studio 2015\Projects\GoldenAnt\GoldenAnt\bin\Debug\NLog.config
+c:\users\fudle\documents\visual studio 2015\Projects\GoldenAnt\GoldenAnt\bin\Debug\GoldenAnt.exe
+c:\users\fudle\documents\visual studio 2015\Projects\GoldenAnt\GoldenAnt\bin\Debug\GoldenAnt.pdb
+c:\users\fudle\documents\visual studio 2015\Projects\GoldenAnt\GoldenAnt\bin\Debug\NLog.dll
+c:\users\fudle\documents\visual studio 2015\Projects\GoldenAnt\GoldenAnt\bin\Debug\NLog.xml
+c:\users\fudle\documents\visual studio 2015\Projects\GoldenAnt\GoldenAnt\obj\Debug\GoldenAnt.csprojResolveAssemblyReference.cache
+c:\users\fudle\documents\visual studio 2015\Projects\GoldenAnt\GoldenAnt\obj\Debug\GoldenAnt.GoldenAnt.resources
+c:\users\fudle\documents\visual studio 2015\Projects\GoldenAnt\GoldenAnt\obj\Debug\GoldenAnt.Properties.Resources.resources
+c:\users\fudle\documents\visual studio 2015\Projects\GoldenAnt\GoldenAnt\obj\Debug\GoldenAnt.csproj.GenerateResource.Cache
+c:\users\fudle\documents\visual studio 2015\Projects\GoldenAnt\GoldenAnt\obj\Debug\GoldenAnt.exe
+c:\users\fudle\documents\visual studio 2015\Projects\GoldenAnt\GoldenAnt\obj\Debug\GoldenAnt.pdb

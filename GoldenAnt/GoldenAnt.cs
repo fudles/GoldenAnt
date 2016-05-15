@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace GoldenAnt
 {
-    public partial class Form1 : Form
+    public partial class GoldenAnt : Form
     {
-        public Form1()
+        public GoldenAnt()
         {
             InitializeComponent();
+        }
+
+        private void GoldenAnt_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
